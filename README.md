@@ -1,2 +1,2 @@
-# expert-palm-tree
+# personal site
 sample repository
